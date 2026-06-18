@@ -1,0 +1,10 @@
+emphasis/课堂划重点.txt
+emphasis/_encoding_test.md
+cv_pdf/
+emphasis/pdf_text/
+emphasis/render_extra_pages.py
+emphasis/regenerate_images.py
+emphasis/term_hits.txt
+emphasis/topic_hits.json
+emphasis/referenced_images.txt
+emphasis/rendered_pages/
